@@ -1,0 +1,2 @@
+#!/bin/sh
+./rsites 10 2|./hull -q -d -ftxt -s1
